@@ -1,3 +1,3 @@
 Hi Lakshmi
   welcome to java
-  Devops
+  java is a programming language
